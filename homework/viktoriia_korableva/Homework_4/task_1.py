@@ -6,9 +6,9 @@ my_dict = {
 
 print(my_dict['tuple'][-1])
 my_dict['list'].append(42)
-my_dict['list'].pop(2)
+my_dict['list'].pop(1)
 my_dict['dict'].pop('one')
-my_dict['dict']['i am a tuple'] = 'right'
+my_dict['dict']['new_string'] = 'i am a tuple'
 my_dict['set'].add('Calgary')
 my_dict['set'].remove(1.25)
 print(my_dict)

@@ -1,5 +1,6 @@
 text = ("Etiam tincidunt neque erat, quis molestie enim imperdiet vel. "
-       "Integer urna nisl, facilisis vitae semper at, dignissim vitae libero")
+        "Integer urna nisl, facilisis vitae semper at, dignissim vitae libero")
+
 text_list = text.split()
 new_text_list = []
 
